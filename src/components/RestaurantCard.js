@@ -3,7 +3,7 @@ import { CDN_URL } from '../utils/constants'
 
 const RestaurantCard = (props) => {
   const { resData } = props
-
+  
   const {
     cloudinaryImageId,
     name,
@@ -13,7 +13,7 @@ const RestaurantCard = (props) => {
     sla
   } = resData?.info
   return (
-    <div className="m-4 p-4 w-[250px] rounded-lg bg-gray-50 hover:bg-gray-100">
+    <div data-testid="resCard" className="m-4 p-4 w-[250px] rounded-lg bg-gray-50 hover:bg-gray-100">
       <img className="h-[170px] w-[250px] rounded-lg" src={ CDN_URL + cloudinaryImageId} alt="res-logo" />
       <h3 className='font-bold py-4 text-lg'>{name}</h3>
       <h4>{cuisines.join(", ")}</h4>

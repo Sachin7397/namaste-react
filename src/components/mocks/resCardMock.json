@@ -1,0 +1,82 @@
+{
+  "info": {
+      "id": "443512",
+      "name": "EatFit",
+      "cloudinaryImageId": "a564ace38895abd960157ac2a76aaf2a",
+      "locality": "Makawana Road",
+      "areaName": "Marol Sakinaka",
+      "costForTwo": "₹270 for two",
+      "cuisines": [
+          "Chinese",
+          "Healthy Food",
+          "Tandoor",
+          "Pizzas",
+          "North Indian",
+          "Thalis",
+          "Biryani"
+      ],
+      "avgRating": 4.3,
+      "parentId": "76139",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "1K+",
+      "sla": {
+          "deliveryTime": 47,
+          "lastMileTravel": 5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "45-50 mins",
+          "lastMileTravelString": "5.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+          "nextCloseTime": "2024-03-26 01:00:00",
+          "opened": true
+      },
+      "badges": {
+          "imageBadges": [
+              {
+                  "imageId": "Rxawards/_CATEGORY-Guiltfree.png",
+                  "description": "Delivery!"
+              }
+          ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+          "entityBadges": {
+              "imageBased": {
+                  "badgeObject": [
+                      {
+                          "attributes": {
+                              "description": "Delivery!",
+                              "imageId": "Rxawards/_CATEGORY-Guiltfree.png"
+                          }
+                      }
+                  ]
+              },
+              "textBased": {},
+              "textExtendedBadges": {}
+          }
+      },
+      "aggregatedDiscountInfoV3": {
+          "header": "₹150 OFF",
+          "subHeader": "ABOVE ₹499",
+          "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+              "lottie": {},
+              "video": {}
+          }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+  },
+  "analytics": {},
+  "cta": {
+      "link": "https://www.swiggy.com/restaurants/eatfit-makawana-road-marol-sakinaka-mumbai-443512",
+      "type": "WEBLINK"
+  }
+}
